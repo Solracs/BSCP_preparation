@@ -23,3 +23,4 @@ Input random strings and search them in the web-page (some of them maybe inside 
 
 ## TIPS
  - If `innerHTML` is used, script tags won't be executed (use img)
+ - If working with *AngularJS* try to use SSTI to escale to an XSS (`{{constructor.constructor('alert(1)')()}}`)
