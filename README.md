@@ -6,5 +6,7 @@ Directory to collect the progress through the study of BSCP (Burp Suite Certifie
  - SLQi vulnerabilities 0/18
  - CSRF vulnerabilities 4/12
  - SSTI 1/7
- - Path Traversal 2/6
+ - Path Traversal 6/6
+ - File Upload 6/7
  - JWT 3/8
+ - Access control vulns 5/13
