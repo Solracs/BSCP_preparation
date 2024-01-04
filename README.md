@@ -10,3 +10,5 @@ Directory to collect the progress through the study of BSCP (Burp Suite Certifie
  - File Upload 6/7
  - JWT 3/8
  - Access control vulns 5/13
+ - CORS 1/3
+ - OS injection 5/5
