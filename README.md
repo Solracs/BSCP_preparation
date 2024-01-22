@@ -7,8 +7,10 @@ Directory to collect the progress through the study of BSCP (Burp Suite Certifie
  - CSRF vulnerabilities 4/12
  - SSTI 1/7
  - Path Traversal 6/6
- - File Upload 6/7
+ - File Upload 7/7
+ - XXE 4/8
  - JWT 3/8
  - Access control vulns 5/13
- - CORS 1/3
+ - CORS 3/3
  - OS injection 5/5
+ - XXE 4/8
